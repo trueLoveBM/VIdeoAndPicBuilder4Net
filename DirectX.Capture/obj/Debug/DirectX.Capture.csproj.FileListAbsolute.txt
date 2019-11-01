@@ -1,0 +1,14 @@
+D:\VS2017WorkSpace\CameraDirectXCapture-master\CameraDirectXCapture-master\DirectX.Capture\obj\Debug\DirectX.Capture.csprojAssemblyReference.cache
+D:\VS2017WorkSpace\CameraDirectXCapture-master\CameraDirectXCapture-master\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CoreCompileInputs.cache
+D:\VS2017WorkSpace\CameraDirectXCapture-master\CameraDirectXCapture-master\生成目录\DirectX.Capture.dll
+D:\VS2017WorkSpace\CameraDirectXCapture-master\CameraDirectXCapture-master\生成目录\DirectX.Capture.pdb
+D:\VS2017WorkSpace\CameraDirectXCapture-master\CameraDirectXCapture-master\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CopyComplete
+D:\VS2017WorkSpace\CameraDirectXCapture-master\CameraDirectXCapture-master\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+D:\VS2017WorkSpace\CameraDirectXCapture-master\CameraDirectXCapture-master\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+D:\VS2017WorkSpace\CameraDirectXCapture-master\DirectShowCapture\生成目录\DirectX.Capture.dll
+D:\VS2017WorkSpace\CameraDirectXCapture-master\DirectShowCapture\生成目录\DirectX.Capture.pdb
+D:\VS2017WorkSpace\CameraDirectXCapture-master\DirectShowCapture\DirectX.Capture\obj\Debug\DirectX.Capture.csprojAssemblyReference.cache
+D:\VS2017WorkSpace\CameraDirectXCapture-master\DirectShowCapture\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CoreCompileInputs.cache
+D:\VS2017WorkSpace\CameraDirectXCapture-master\DirectShowCapture\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CopyComplete
+D:\VS2017WorkSpace\CameraDirectXCapture-master\DirectShowCapture\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+D:\VS2017WorkSpace\CameraDirectXCapture-master\DirectShowCapture\DirectX.Capture\obj\Debug\DirectX.Capture.pdb

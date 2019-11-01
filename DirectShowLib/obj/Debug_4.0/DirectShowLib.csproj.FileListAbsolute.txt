@@ -1,0 +1,11 @@
+D:\VS2017WorkSpace\DirectShowLib-master\DirectShowLib-master\DirectShowLib\bin\Debug_4.0\DirectShowLib.dll
+D:\VS2017WorkSpace\DirectShowLib-master\DirectShowLib-master\DirectShowLib\bin\Debug_4.0\DirectShowLib.pdb
+D:\VS2017WorkSpace\DirectShowLib-master\DirectShowLib-master\DirectShowLib\obj\Debug_4.0\DirectShowLib.csproj.CoreCompileInputs.cache
+D:\VS2017WorkSpace\DirectShowLib-master\DirectShowLib-master\DirectShowLib\obj\Debug_4.0\DirectShowLib.dll
+D:\VS2017WorkSpace\DirectShowLib-master\DirectShowLib-master\DirectShowLib\obj\Debug_4.0\DirectShowLib.pdb
+D:\VS2017WorkSpace\DirectShowLib-master\VideoAndPicBuilder4Net\DirectShowLib\bin\Debug_4.0\DirectShowLib.dll
+D:\VS2017WorkSpace\DirectShowLib-master\VideoAndPicBuilder4Net\DirectShowLib\bin\Debug_4.0\DirectShowLib.pdb
+D:\VS2017WorkSpace\DirectShowLib-master\VideoAndPicBuilder4Net\DirectShowLib\obj\Debug_4.0\DirectShowLib.csprojAssemblyReference.cache
+D:\VS2017WorkSpace\DirectShowLib-master\VideoAndPicBuilder4Net\DirectShowLib\obj\Debug_4.0\DirectShowLib.csproj.CoreCompileInputs.cache
+D:\VS2017WorkSpace\DirectShowLib-master\VideoAndPicBuilder4Net\DirectShowLib\obj\Debug_4.0\DirectShowLib.dll
+D:\VS2017WorkSpace\DirectShowLib-master\VideoAndPicBuilder4Net\DirectShowLib\obj\Debug_4.0\DirectShowLib.pdb
