@@ -6,4 +6,4 @@
 3.能够实现自定义的摄像头设置并保存
 4.能够实现调用系统摄像头页面并保存到本地
 
-![image](https://github.com/trueLoveBM/VIdeoAndPicBuilder4Net/blob/master/Image/VideoAndPicBuilder.gif)
+![image](https://github.com/trueLoveBM/VIdeoAndPicBuilder4Net/blob/master/Image/VideoAndPicBuilder.jpg)
