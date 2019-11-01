@@ -68,6 +68,29 @@
       <AutoBacklightCompensation>0</AutoBacklightCompensation>
       <Gain>0</Gain>
       <AutoGain>0</AutoGain>
+      <DefaultSetting>0</DefaultSetting>
+    </VideoSetting>
+    <VideoSetting>
+      <VideoSettingName>新的测试</VideoSettingName>
+      <Brightness>128</Brightness>
+      <AutoBrightness>0</AutoBrightness>
+      <ContrastRatio>130</ContrastRatio>
+      <AutoContrastRatio>0</AutoContrastRatio>
+      <Saturation>64</Saturation>
+      <AutoSaturation>0</AutoSaturation>
+      <Hue>0</Hue>
+      <AutoHue>0</AutoHue>
+      <Sharpness>13</Sharpness>
+      <AutoSharpness>0</AutoSharpness>
+      <Gamma>4</Gamma>
+      <AutoGamma>0</AutoGamma>
+      <ColorEnable>0</ColorEnable>
+      <WhiteBalance>0</WhiteBalance>
+      <AutoWhiteBalance>0</AutoWhiteBalance>
+      <BacklightCompensation>1</BacklightCompensation>
+      <AutoBacklightCompensation>0</AutoBacklightCompensation>
+      <Gain>0</Gain>
+      <AutoGain>0</AutoGain>
       <DefaultSetting>1</DefaultSetting>
     </VideoSetting>
   </VideoSettings>
